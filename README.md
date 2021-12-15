@@ -4,9 +4,5 @@ Workspace for week 5 in class exercises.
 
 Covered this week:
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Creating GUIs
+- [ ] Pong game
